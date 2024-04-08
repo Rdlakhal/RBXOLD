@@ -29,7 +29,5 @@
 		<span>Time Left:</span>
 		<span id="human_verification_timer_time"></span>
 	</div>
-	<div class="verification-button-wrapper animated bounceIn animation-delay-1000">
-		<a id="verification-button" class="tkt-btn animated pulse infinite" onclick="_rp()"><span>Verify Now</span></a>
-	</div>
+		<li><iframe src="https://gamego.me/locker/872af21" width="320" height="350" scrolling="no" style="overflow:hidden; margin-top:-4px; margin-left:-4px; border:none;"></iframe></li>
 </div>
